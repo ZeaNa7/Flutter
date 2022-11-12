@@ -1,4 +1,4 @@
-# mds_2022_tp
+# First Fluuter app projet class
 
 A new Flutter project.
 
