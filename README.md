@@ -1,4 +1,4 @@
-# First Fluuter app projet class
+# First Flutter app projet class
 
 A new Flutter project.
 
